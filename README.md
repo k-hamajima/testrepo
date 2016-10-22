@@ -1,2 +1,2 @@
-# testrepo
-test
+# プレゼン用のテストリポジトリです
+GitHubの機能ですよ
